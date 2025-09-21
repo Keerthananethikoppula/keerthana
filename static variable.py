@@ -34,4 +34,4 @@ obj.name="sowmya"
 obj.age=21  
 obj.rollno=102
 print(obj.name,obj.age,obj.rollno)
- a
+
